@@ -1132,4 +1132,4 @@ const districtList = [
     { name: `Kaynaşlı`, city_plate_number: 81 },
     { name: `Merkez`, city_plate_number: 81 },
     { name: `Yığılca`, city_plate_number: 81 },
-]
+];
